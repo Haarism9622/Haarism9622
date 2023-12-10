@@ -1,6 +1,7 @@
 - Hi, I’m @Haarism9622 
 - 👀 I’m interested in learning computer science, programming, data science and web development
 - 🌱 I’m currently majoring in CS in Rutgers University - Newark
+- Languages I know and currently learning: Python, Java, Javascript, C, SQL
 
 
 <!---
