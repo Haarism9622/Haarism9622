@@ -1,10 +1,19 @@
-- Hi, I’m @Haarism9622 
-- 👀 I’m interested in learning computer science, programming, data science and web development
-- 🌱 I’m currently majoring in CS in Rutgers University - Newark
-- Languages I know and currently learning: Python, Java, Javascript, C, SQL
+# Hi, I'm Haaris 👋
 
+BA in Computer Science from Rutgers University–Newark (2026), currently in the Per Scholas AWS re/Start program. I'm interested in data work, cloud, and building practical things with code.
 
-<!---
-Haarism9622/Haarism9622 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## What I'm working with
+- **Languages:** Python, SQL, Java, JavaScript, C
+- **Data:** Pandas, NumPy, PostgreSQL
+- **Cloud & tools:** AWS (EC2, S3, IAM), Linux, Git, GitHub Actions
+- **Web:** HTML/CSS
+
+## Projects
+- **Goodreads Genre Analysis:** association rule mining on book genre co-occurrence using Python and Pandas ([link to repo])
+
+## Currently
+- Learning: SQL (joins and beyond), AWS, and more data engineering concepts
+
+## Contact
+- LinkedIn: linkedin.com/in/haaris-muhammad
+- Email: haarism9622@gmail.com
